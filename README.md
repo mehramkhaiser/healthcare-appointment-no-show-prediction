@@ -56,6 +56,12 @@ Gradient Boosting achieved the highest F1-score and overall accuracy among the e
 ## Limitations
 The dataset is observational and originates from Brazil in 2016. The findings should not be assumed to generalise to other healthcare systems or current appointment populations. Predictive feature importance does not establish causation.
 
+## Interactive Dashboard
+
+Explore the project dashboard here:
+
+[View Healthcare Appointment No-show Prediction Dashboard](https://datastudio.google.com/reporting/ba3928ea-92fc-44e9-8758-dac0374998b9)
+
 ## Author
 Mehram Khaiser
 
